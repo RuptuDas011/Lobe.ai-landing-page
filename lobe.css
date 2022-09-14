@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background: rgba(255, 255, 255 , 2);
+    
+    
+}
+
+nav a{
+    color: #767676;
+    font-size: 25px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: LabGrotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+nav li{
+    display: inline-block;
+    margin: 35px;
+    list-style: none;
+    
+}
+
+nav img{
+    float: left;
+    
+}
+
+nav a:hover{
+    color:
+    #333;     
+}
+
+.btn{
+    width: 120px;
+    height: 50px;
+    border-radius: 25px ;
+    background-color: 
+    #04ddb2;
+    margin-right: 50px;
+    color: antiquewhite;
+    border-style: none;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: LabGrotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+    
+
+
+}
+
+.btn:hover{
+    transform: scale(1.1);
+    
+}
+
+
+
+.container{
+    text-align: center;
+    font-size: 30px;
+    line-height: 1.05;
+    margin-bottom: 12px;
+    font-weight: 900;
+    cursor: default;
+    margin-top: 50px;
+    color: #333;
+    font-family: LabGrotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.container b{
+    color: #04ddb2;
+}
+
+.container p{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 0%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+
+.video{
+    display: flex;
+    justify-content: center;
+
+}
+
+.video:hover{
+    transform: scale(1.1);
+    box-shadow: #333;
+    
+    
+
+}
+
+.container2{
+    text-align: center;
+    font-family:LabGrotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-top: 50px;
+    font-size: 60px;
+    color: #333;
+    font-weight: 1000;
+}
+
+.btn2{
+    width: 220px;
+    height: 50px;
+    border-radius: 25px ;
+    background-color: 
+    #04ddb2;
+    margin-right: 50px;
+    color: antiquewhite;
+    border-style: none;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: LabGrotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.btn2:hover{
+    transform: scale(1.1);
+    opacity: 1;
+    
+}
+
+.fot{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.fot p{
+    color: #333;
+    font-family: LabGrotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    margin-inline: 20px;
+    float: left;
+    
+}
+
+.fot1{
+    font-size: 15px;
+    font-family: LabGrotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 100;
+
+}
+
+.fot1 h2{
+    margin-bottom: 30px;
+}
+
+.fot1 li{
+    margin: 10px;
+    list-style: none;
+}
+
+
+
+.fot2{
+    font-size: 15px;
+    font-family: LabGrotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 100;
+
+}
+
+.fot2 h2{
+    margin-bottom: 30px;
+}
+
+.fot2 li{
+    margin: 10px;
+    list-style: none;
+}
+
+
+
+
+
+.fot3{
+    font-size: 15px;
+    font-family: LabGrotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 100;
+
+}
+
+.fot3 h2{
+    margin-bottom: 30px;
+}
+
+.fot3 li{
+    margin: 10px;
+    list-style: none;
+}
+   
+.soc{
+
+   font-size: 20px;
+   font-family:  LabGrotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+   margin: 40px;
+   height: 180px;
+    
+}
+
+
+   
+   
+
+
+    
+    
